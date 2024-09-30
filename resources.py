@@ -76,15 +76,5 @@ def print_with_indent(val, indent=0):
 
 
 
-# e = Entry("cat")
-# # e_m = EntryManager("./files/smth.py")
-# # e_m.add_entry("kitten")
-# e1 = Entry("kitten")
-# e2 = Entry("an old cat")
-# e.add_entry(e1)
-# e.add_entry(e2)
-# j = e.json()
-# print(j)
-# print(Entry.from_json(j))
 
 
